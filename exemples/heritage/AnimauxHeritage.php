@@ -12,7 +12,7 @@ class AnimauxHeritage extends mysqli {
 
     public function __construct()
     {
-        parent::__construct("localhost","root","","simon");
+        parent::__construct("localhost","root","","dbAnimaux");
 
     }
 
